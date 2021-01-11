@@ -12,4 +12,4 @@ Exploring online search behavior for COVID-19 preventive measures: The Philippin
 ## Contents
 dataset.csv
 
-This file contains the whole dataset used for the analysis and visualization of data.
+This file contains the whole dataset used for the visualization and analysis of data.
